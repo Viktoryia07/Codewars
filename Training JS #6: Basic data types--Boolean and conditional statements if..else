@@ -1,0 +1,4 @@
+function trueOrFalse(val){
+  if (Boolean(val))    return "true";             
+  else     return "false";
+}
